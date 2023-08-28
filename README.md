@@ -13,3 +13,6 @@
   - Save the report as a CSV spreadsheet rather than printing it to the console.
   - Use a graphics library to create an image that shows the links between the pages as a graph visualization.
   - Make requests concurrently to speed up the crawling process.
+
+<img width="385" alt="link-analyzer" src="https://github.com/aryans98/link-analyzer/assets/84920015/62163fcf-25b0-477c-a94e-8a0ca26d8372">
+
