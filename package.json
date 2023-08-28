@@ -1,7 +1,7 @@
 {
   "name": "link-analyzer",
   "version": "1.0.0",
-  "description": "Built a JavaScript application using NodeJS that generates an internal links report for any website",
+  "description": "SEO link analyzer",
   "main": "main.js",
   "scripts": {
     "start": "node main.js",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/aryans98/link-analyzer.git"
   },
-  "author": "",
+  "author": "aryans98",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/aryans98/link-analyzer/issues"
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/aryans98/link-analyzer#readme",
   "devDependencies": {
     "jest": "^29.6.4"
+  },
+  "dependencies": {
+    "jsdom": "^22.1.0"
   }
 }
