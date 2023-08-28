@@ -1,0 +1,19 @@
+{
+  "name": "link-analyzer",
+  "version": "1.0.0",
+  "description": "Built a JavaScript application using NodeJS that generates an internal links report for any website",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryans98/link-analyzer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
