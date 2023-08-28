@@ -13,6 +13,10 @@
   },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aryans98/link-analyzer/issues"
+  },
+  "homepage": "https://github.com/aryans98/link-analyzer#readme",
   "devDependencies": {
     "jest": "^29.6.4"
   }
