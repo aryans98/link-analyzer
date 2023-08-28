@@ -1,5 +1,5 @@
-# link-analyzer
-- Built a user-friendly JavaScript application using NodeJS that reveals how a website's internal links work by generating an "<i>internal links</i>" report for any website on the internet by crawling each page of the site.
+# Link-Analyzer
+Built a user-friendly JavaScript application using NodeJS that reveals how a website's internal links work by generating an "<i>internal links</i>" report for any website on the internet by crawling each page of the site.
 
 ## Feature ideas to implement
 - Make the script run on a timer and deploy it to a server. Have it email every so often with a report.
