@@ -1,1 +1,1 @@
-# link-analyser
+# link-analyzer
